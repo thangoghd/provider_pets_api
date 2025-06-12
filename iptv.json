@@ -15,38 +15,88 @@
       "display": "horizontal",
       "channels": [
         {
-          "id": "600256859",
-          "name": "Central Coast Mariners (Youth) vs Manly United",
-          "type": "single",
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
           "display": "thumbnail-only",
-          "enable_detail": false,
-          "sources": [
-            {
-              "id": "source_600256859",
-              "name": "Main Source",
-              "contents": [
-                {
-                  "id": "content_600256859",
-                  "name": "Main Content",
-                  "streams": [
-                    {
-                      "id": "stream_600256859",
-                      "name": "Main Stream",
-                      "stream_links": [
-                        {
-                          "id": "link_600256859",
-                          "name": "Main Link",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/b7e33a234842ddaa3b833a4045e84b81/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
+        {
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
+        {
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
+        {
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
         },
         {
           "id": "600229267",
@@ -65,14 +115,14 @@
                   "streams": [
                     {
                       "id": "stream_600229267",
-                      "name": "Main Stream",
+                      "name": "BLV Bánh Mì",
                       "stream_links": [
                         {
                           "id": "link_600229267",
                           "name": "Main Link",
                           "type": "hls",
                           "default": true,
-                          "url": ""
+                          "url": "https://live.alilicloud.com/live/220ea9fa5931a85f7646bd814e25d82b/playlist.m3u8"
                         }
                       ]
                     }
@@ -83,38 +133,25 @@
           ]
         },
         {
-          "id": "600229274",
-          "name": "Gyeongju FC (w) vs KSPO FC (w)",
-          "type": "single",
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
           "display": "thumbnail-only",
-          "enable_detail": false,
-          "sources": [
-            {
-              "id": "source_600229274",
-              "name": "Main Source",
-              "contents": [
-                {
-                  "id": "content_600229274",
-                  "name": "Main Content",
-                  "streams": [
-                    {
-                      "id": "stream_600229274",
-                      "name": "Main Stream",
-                      "stream_links": [
-                        {
-                          "id": "link_600229274",
-                          "name": "Main Link",
-                          "type": "hls",
-                          "default": true,
-                          "url": ""
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
         },
         {
           "id": "600229281",
@@ -133,14 +170,69 @@
                   "streams": [
                     {
                       "id": "stream_600229281",
-                      "name": "Main Stream",
+                      "name": "BLV Chả Ram",
                       "stream_links": [
                         {
                           "id": "link_600229281",
                           "name": "Main Link",
                           "type": "hls",
                           "default": true,
-                          "url": ""
+                          "url": "https://live.alilicloud.com/live/dd117b59d05f74cc271e4f01643da099/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
+        {
+          "id": "600229274",
+          "name": "Gyeongju FC (w) vs KSPO FC (w)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source_600229274",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600229274",
+                  "name": "Main Content",
+                  "streams": [
+                    {
+                      "id": "stream_600229274",
+                      "name": "BLV Bún Măng",
+                      "stream_links": [
+                        {
+                          "id": "link_600229274",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/dea0651779c680ddc365550c3248d43a/playlist.m3u8"
                         }
                       ]
                     }
@@ -167,7 +259,7 @@
                   "streams": [
                     {
                       "id": "stream_600229295",
-                      "name": "Main Stream",
+                      "name": "BLV Cơm Chiên",
                       "stream_links": [
                         {
                           "id": "link_600229295",
@@ -185,30 +277,64 @@
           ]
         },
         {
-          "id": "600243797",
-          "name": "Metalurh Zaporizhya vs FC Chernigiv",
+          "id": "600261472",
+          "name": "Racing de Bafoussam vs Yaounde FC II",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "sources": [
             {
-              "id": "source_600243797",
+              "id": "source_600261472",
               "name": "Main Source",
               "contents": [
                 {
-                  "id": "content_600243797",
+                  "id": "content_600261472",
                   "name": "Main Content",
                   "streams": [
                     {
-                      "id": "stream_600243797",
+                      "id": "stream_600261472",
                       "name": "Main Stream",
                       "stream_links": [
                         {
-                          "id": "link_600243797",
+                          "id": "link_600261472",
                           "name": "Main Link",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/6be5acf170a73c442256c08d73962e06/playlist.m3u8"
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600260149",
+          "name": "Than Quang Ninh vs PVF-CAND B",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source_600260149",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600260149",
+                  "name": "Main Content",
+                  "streams": [
+                    {
+                      "id": "stream_600260149",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600260149",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/3aac8dbc977b59d3f1101977573b4165/playlist.m3u8"
                         }
                       ]
                     }
@@ -226,74 +352,88 @@
       "display": "horizontal",
       "channels": [
         {
-          "id": "600239921",
-          "name": "Nguyễn Trần Thanh Tự vs Jean Paul DE BRUIJN",
-          "description": "",
-          "type": "single",
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
           "display": "thumbnail-only",
-          "enable_detail": false,
-          "sources": [
-            {
-              "id": "source_600239921",
-              "name": "Main Source",
-              "contents": [
-                {
-                  "id": "content_600239921",
-                  "name": "Main Content",
-                  "streams": [
-                    {
-                      "id": "stream_600239921",
-                      "name": "Main Stream",
-                      "stream_links": [
-                        {
-                          "id": "link_600239921",
-                          "name": "Main Link",
-                          "type": "hls",
-                          "default": true,
-                          "url": ""
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
         },
         {
-          "id": "600239928",
-          "name": "Peter CEULEMANS vs Kevin VASSEUR",
-          "description": "",
-          "type": "single",
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
           "display": "thumbnail-only",
-          "enable_detail": false,
-          "sources": [
-            {
-              "id": "source_600239928",
-              "name": "Main Source",
-              "contents": [
-                {
-                  "id": "content_600239928",
-                  "name": "Main Content",
-                  "streams": [
-                    {
-                      "id": "stream_600239928",
-                      "name": "Main Stream",
-                      "stream_links": [
-                        {
-                          "id": "link_600239928",
-                          "name": "Main Link",
-                          "type": "hls",
-                          "default": true,
-                          "url": ""
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
+        {
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
+        {
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
         },
         {
           "id": "600239956",
@@ -313,7 +453,7 @@
                   "streams": [
                     {
                       "id": "stream_600239956",
-                      "name": "Main Stream",
+                      "name": "BLV Canh Chua",
                       "stream_links": [
                         {
                           "id": "link_600239956",
@@ -331,27 +471,69 @@
           ]
         },
         {
-          "id": "600239991",
-          "name": "KIM Haeng Jik vs Winner_M147",
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
+        {
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
+        {
+          "id": "600239928",
+          "name": "Peter CEULEMANS vs Kevin VASSEUR",
           "description": "",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "sources": [
             {
-              "id": "source_600239991",
+              "id": "source_600239928",
               "name": "Main Source",
               "contents": [
                 {
-                  "id": "content_600239991",
+                  "id": "content_600239928",
                   "name": "Main Content",
                   "streams": [
                     {
-                      "id": "stream_600239991",
-                      "name": "Main Stream",
+                      "id": "stream_600239928",
+                      "name": "BLV Nem Chua",
                       "stream_links": [
                         {
-                          "id": "link_600239991",
+                          "id": "link_600239928",
                           "name": "Main Link",
                           "type": "hls",
                           "default": true,
@@ -383,7 +565,7 @@
                   "streams": [
                     {
                       "id": "stream_600240005",
-                      "name": "Main Stream",
+                      "name": "BLV Canh Chua",
                       "stream_links": [
                         {
                           "id": "link_600240005",
@@ -418,10 +600,80 @@
                   "streams": [
                     {
                       "id": "stream_600239977",
-                      "name": "Main Stream",
+                      "name": "BLV Nem Chua",
                       "stream_links": [
                         {
                           "id": "link_600239977",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600239991",
+          "name": "KIM Haeng Jik vs Ahmet ALP",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source_600239991",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600239991",
+                  "name": "Main Content",
+                  "streams": [
+                    {
+                      "id": "stream_600239991",
+                      "name": "BLV Bún Than",
+                      "stream_links": [
+                        {
+                          "id": "link_600239991",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600240026",
+          "name": "Eddy MERCKX vs Q_Player_13",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source_600240026",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600240026",
+                  "name": "Main Content",
+                  "streams": [
+                    {
+                      "id": "stream_600240026",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600240026",
                           "name": "Main Link",
                           "type": "hls",
                           "default": true,
@@ -442,6 +694,27 @@
       "name": "Cầu Lông",
       "display": "horizontal",
       "channels": [
+        {
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
         {
           "id": "600256770",
           "name": "YONEX US Open 2025",
@@ -485,6 +758,27 @@
       "display": "horizontal",
       "channels": [
         {
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
+        {
           "id": "600222505",
           "name": "Indiana Pacers vs Oklahoma City Thunder",
           "description": "",
@@ -502,7 +796,7 @@
                   "streams": [
                     {
                       "id": "stream_600222505",
-                      "name": "Main Stream",
+                      "name": "BLV Bún Mắm",
                       "stream_links": [
                         {
                           "id": "link_600222505",
@@ -533,39 +827,46 @@
       "display": "horizontal",
       "channels": [
         {
-          "id": "600240124",
-          "name": "Indonesia vs New Zealand",
-          "description": "",
-          "type": "single",
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
           "display": "thumbnail-only",
-          "enable_detail": false,
-          "sources": [
-            {
-              "id": "source_600240124",
-              "name": "Main Source",
-              "contents": [
-                {
-                  "id": "content_600240124",
-                  "name": "Main Content",
-                  "streams": [
-                    {
-                      "id": "stream_600240124",
-                      "name": "Main Stream",
-                      "stream_links": [
-                        {
-                          "id": "link_600240124",
-                          "name": "Main Link",
-                          "type": "hls",
-                          "default": true,
-                          "url": ""
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
+        {
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
         },
         {
           "id": "600240131",
@@ -585,10 +886,66 @@
                   "streams": [
                     {
                       "id": "stream_600240131",
-                      "name": "Main Stream",
+                      "name": "BLV Xì Dầu",
                       "stream_links": [
                         {
                           "id": "link_600240131",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "banner-1",
+          "name": "90link",
+          "image": {
+            "url": "https://image-eu-na-ctnytbefjq.4shares.live/90link/8/320ii480.gif",
+            "height": 480,
+            "width": 320,
+            "display": "cover"
+          },
+          "type": "banner",
+          "display": "thumbnail-only",
+          "remote_data": {
+            "url": "https://15.235.211.51/90p",
+            "request_headers": [
+              {
+                "key": "test",
+                "value": "test"
+              }
+            ]
+          }
+        },
+        {
+          "id": "600240124",
+          "name": "Indonesia vs New Zealand",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source_600240124",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600240124",
+                  "name": "Main Content",
+                  "streams": [
+                    {
+                      "id": "stream_600240124",
+                      "name": "BLV Cơm Chiên",
+                      "stream_links": [
+                        {
+                          "id": "link_600240124",
                           "name": "Main Link",
                           "type": "hls",
                           "default": true,
@@ -620,7 +977,7 @@
                   "streams": [
                     {
                       "id": "stream_600240138",
-                      "name": "Main Stream",
+                      "name": "BLV Bún Mắm",
                       "stream_links": [
                         {
                           "id": "link_600240138",
