@@ -1,0 +1,626 @@
+{
+  "id": "bunchatv",
+  "url": "https://api-gw.bunchatv2.com/home/categories-matches",
+  "name": "BunchaTV",
+  "color": "#1DB57A",
+  "description": "Buncha TV phát sóng trực tiếp bóng đá miễn phí các giải đấu HOT nhất thế giới, bình luận viên tiếng Việt HD 4K, kèm theo nhiều tiện ích hữu ích như lịch thi đấu, kết quả, bảng xếp hạng, tỷ lệ kèo, máy tính dự đoán, top ghi bàn, nhận định soi kèo, và tin tức bóng đá cập nhật 24/7.",
+  "image": {
+    "url": "https://i.postimg.cc/bvtJM2Zd/images.jpg",
+    "display": "cover"
+  },
+  "groups": [
+    {
+      "id": "1",
+      "name": "Bóng đá",
+      "display": "horizontal",
+      "channels": [
+        {
+          "id": "600256859",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600256859",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600256859",
+                  "streams": [
+                    {
+                      "id": "stream_600256859",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600256859",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/b7e33a234842ddaa3b833a4045e84b81/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600229260",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600229260",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600229260",
+                  "streams": [
+                    {
+                      "id": "stream_600229260",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600229260",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/41ab4b7357a20291c9b1fc3c3df11dde/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600229281",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600229281",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600229281",
+                  "streams": [
+                    {
+                      "id": "stream_600229281",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600229281",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600229274",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600229274",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600229274",
+                  "streams": [
+                    {
+                      "id": "stream_600229274",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600229274",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600229267",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600229267",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600229267",
+                  "streams": [
+                    {
+                      "id": "stream_600229267",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600229267",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600229295",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600229295",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600229295",
+                  "streams": [
+                    {
+                      "id": "stream_600229295",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600229295",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Billiards",
+      "display": "horizontal",
+      "channels": [
+        {
+          "id": "600239921",
+          "name": "",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600239921",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600239921",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "stream_600239921",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600239921",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600239928",
+          "name": "",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600239928",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600239928",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "stream_600239928",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600239928",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600239956",
+          "name": "",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600239956",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600239956",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "stream_600239956",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600239956",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600239942",
+          "name": "",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600239942",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600239942",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "stream_600239942",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600239942",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600239949",
+          "name": "",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600239949",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600239949",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "stream_600239949",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600239949",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600239998",
+          "name": "",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600239998",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600239998",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "stream_600239998",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600239998",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Cầu Lông",
+      "display": "horizontal",
+      "channels": [
+        {
+          "id": "600256770",
+          "name": "YONEX US Open 2025",
+          "description": "YONEX US Open 2025",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600256770",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600256770",
+                  "name": "YONEX US Open 2025",
+                  "streams": [
+                    {
+                      "id": "stream_600256770",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600256770",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Bóng rổ",
+      "display": "horizontal",
+      "channels": [
+        {
+          "id": "600222505",
+          "name": "",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600222505",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600222505",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "stream_600222505",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600222505",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Tennis",
+      "display": "horizontal",
+      "channels": []
+    },
+    {
+      "id": "50",
+      "name": "Bóng chuyền",
+      "display": "horizontal",
+      "channels": [
+        {
+          "id": "600240124",
+          "name": "",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600240124",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600240124",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "stream_600240124",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600240124",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600240131",
+          "name": "",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600240131",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600240131",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "stream_600240131",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600240131",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "600240138",
+          "name": "",
+          "description": "",
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "source_600240138",
+              "name": "Main Source",
+              "contents": [
+                {
+                  "id": "content_600240138",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "stream_600240138",
+                      "name": "Main Stream",
+                      "stream_links": [
+                        {
+                          "id": "link_600240138",
+                          "name": "Main Link",
+                          "type": "hls",
+                          "default": true,
+                          "url": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Bóng bàn",
+      "display": "horizontal",
+      "channels": []
+    },
+    {
+      "id": "2",
+      "name": "Võ Thuật",
+      "display": "horizontal",
+      "channels": []
+    }
+  ]
+}
