@@ -16,8 +16,10 @@
       "channels": [
         {
           "id": "600256859",
+          "name": "Central Coast Mariners (Youth) vs Manly United",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600256859",
@@ -47,8 +49,10 @@
         },
         {
           "id": "600229260",
+          "name": "Boeun Sangmu (w) vs Suwon FMC (w)",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600229260",
@@ -78,8 +82,10 @@
         },
         {
           "id": "600229281",
+          "name": "Seoul Amazones (w) vs Incheon Hyundai Steel Red Angels (w)",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600229281",
@@ -109,8 +115,10 @@
         },
         {
           "id": "600229274",
+          "name": "Gyeongju FC (w) vs KSPO FC (w)",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600229274",
@@ -140,8 +148,10 @@
         },
         {
           "id": "600229267",
+          "name": "Changnyeong (w) vs Sejong Gumi Sportstoto (w)",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600229267",
@@ -171,8 +181,10 @@
         },
         {
           "id": "600229295",
+          "name": "Ekibastuzets vs FK Taraz",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600229295",
@@ -209,10 +221,11 @@
       "channels": [
         {
           "id": "600239921",
-          "name": "",
+          "name": "Nguyễn Trần Thanh Tự vs Jean Paul DE BRUIJN",
           "description": "",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600239921",
@@ -243,10 +256,11 @@
         },
         {
           "id": "600239928",
-          "name": "",
+          "name": "Peter CEULEMANS vs Loser_M145",
           "description": "",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600239928",
@@ -277,10 +291,11 @@
         },
         {
           "id": "600239956",
-          "name": "",
+          "name": "Frederic CAUDRON vs Loser_M149",
           "description": "",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600239956",
@@ -311,10 +326,11 @@
         },
         {
           "id": "600239942",
-          "name": "",
+          "name": "KIM Haeng Jik vs Loser_M147",
           "description": "",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600239942",
@@ -345,10 +361,11 @@
         },
         {
           "id": "600239949",
-          "name": "",
+          "name": "Glenn HOFMAN vs Loser_M148",
           "description": "",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600239949",
@@ -379,10 +396,11 @@
         },
         {
           "id": "600239998",
-          "name": "",
+          "name": "Glenn HOFMAN vs Winner_M148",
           "description": "",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600239998",
@@ -424,6 +442,7 @@
           "description": "YONEX US Open 2025",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600256770",
@@ -461,10 +480,11 @@
       "channels": [
         {
           "id": "600222505",
-          "name": "",
+          "name": "Indiana Pacers vs Oklahoma City Thunder",
           "description": "",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600222505",
@@ -508,10 +528,11 @@
       "channels": [
         {
           "id": "600240124",
-          "name": "",
+          "name": "Indonesia vs New Zealand",
           "description": "",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600240124",
@@ -542,10 +563,11 @@
         },
         {
           "id": "600240131",
-          "name": "",
+          "name": "Ấn Độ vs Đài Loan",
           "description": "",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600240131",
@@ -576,10 +598,11 @@
         },
         {
           "id": "600240138",
-          "name": "",
+          "name": "Việt Nam vs Australia",
           "description": "",
           "type": "single",
           "display": "thumbnail-only",
+          "enable_detail": false,
           "sources": [
             {
               "id": "source_600240138",
