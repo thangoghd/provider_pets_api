@@ -12,7 +12,7 @@
     {
       "id": "new-update",
       "name": "Mới cập nhật",
-      "display": "text-below",
+      "display": "vertical",
       "grid_number": 3,
       "channels": [
         {
