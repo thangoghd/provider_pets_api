@@ -13,6 +13,7 @@
       "id": "new-update",
       "name": "Mới cập nhật",
       "display": "text-below",
+      "grid_number": 3,
       "channels": [
         {
           "id": "2802",
